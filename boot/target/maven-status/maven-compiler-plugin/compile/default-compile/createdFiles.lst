@@ -1,0 +1,4 @@
+DTO\ContentDTO.class
+Domain\Content.class
+rest\ContentResource.class
+service\ContentService.class
