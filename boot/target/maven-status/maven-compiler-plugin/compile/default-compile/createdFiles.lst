@@ -1,4 +1,7 @@
-DTO\ContentDTO.class
+entity\User.class
+repository\UserRepository.class
 Domain\Content.class
 rest\ContentResource.class
+DTO\ContentDTO.class
+app\Application.class
 service\ContentService.class
